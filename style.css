@@ -3,5 +3,8 @@ body{
     background-color: brown;
 }
 h1{
-    color : red
+    color : blue;
+}
+p{ 
+    size: 10px;
 }
