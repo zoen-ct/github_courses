@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    background-color: brown;
+}
+h1{
+    color : blue;
+}
+p{ 
+    size: 10px;
+}
